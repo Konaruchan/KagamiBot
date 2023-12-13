@@ -1,1 +1,1 @@
-worker: python KagamiBot.py
+web: python KagamiBot.py
